@@ -24,7 +24,6 @@ The main notebook for the project is `housePricePredictionModel.ipynb`. It conta
 - pandas
 - matplotlib
 - seaborn
-- ...
 
 ## Why Google Colab?
 
