@@ -18,10 +18,21 @@ The main notebook for the project is `housePricePredictionModel.ipynb`. It conta
 
 ## Dependencies
 
-- Python 3.7
+- Python 3.10.12
 - Jupyter Notebook
 - scikit-learn
+- pandas
+- matplotlib
+- seaborn
 - ...
+
+## Why Google Colab?
+
+Google Colab was chosen as the integrated development environment (IDE) for this project due to its cloud-based nature and the following advantages:
+
+- Free Access to GPUs: Google Colab provides free access to Graphics Processing Units (GPUs), which can significantly accelerate the training of machine learning models.
+- Collaborative Editing: Multiple users can collaborate in real-time on the same Colab notebook, making it a convenient choice for teamwork and knowledge sharing.
+- Integrated with Google Drive: Colab is seamlessly integrated with Google Drive, allowing easy access to datasets and the ability to save and share work directly in the cloud.
 
 ## Evaluation
 
